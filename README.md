@@ -1,7 +1,7 @@
 # Implantables-NetworkCable Read Me
 
 ## Contents
-This repository is home to the 3D CAD design files of the electrodes in the COSMIIC System.
+This repository is home to the 3D CAD design files of the Network Cable in the COSMIIC System.
 Further documentation is available at **[docs.cosmiic.org/Implantables/NetworkCable](https://docs.cosmiic.org/Implantables/NetworkCable)**
 
 ## Licensing
