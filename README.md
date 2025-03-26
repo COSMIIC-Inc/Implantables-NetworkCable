@@ -1,10 +1,18 @@
-# Network Cable
-Utilized to conduct power and communication between implanted modules in the NNP System. Every remote module must be connected to the NNP network through a network cable.
+# Implantables-NetworkCable Read Me
 
-## User-Friendly Guide
-Background information on the network cable can be found [here](https://cosmiic-inc.github.io/Implantables/Cables).  
+## Contents
+This repository is home to the 3D CAD design files of the electrodes in the COSMIIC System.
+Further documentation is available at **[docs.cosmiic.org/Implantables/NetworkCable](https://docs.cosmiic.org/Implantables/NetworkCable)**
 
-## Testing Documentation
-Requirements and testing are documented in /Design Verification
 ## Licensing
-Hardware designs of the COSMIIC System are released permissively under the CERN-OHL-P-2.0 license
+Hardware-related files are licensed to open source users by COSMIIC under the CERN Open Hardware License - Permissive - v2 (CERN-OHL-P-2.0). Refer to the **[license text](https://ohwr.org/cern_ohl_p_v2.txt)** (also embedded in the repository as **LICENSE.txt**) and **[user guide](https://ohwr.org/project/cernohl/-/wikis/uploads/8a6b5d01f71c207c49493e4d114d61e6/cern_ohl_p_v2_howto.pdf)** to understand your permissions.
+
+Hardware-related files includes, but is not limited to...
+
+- Mechanical Design
+    - 3D CAD Files (parts and assemblies, multiple file types)
+    - Mechanical Drawings (parts and assemblies, mulitple file types)
+- PCB Design
+    - Fabrication (Gerber and Drill files)
+    - Assembly (Pick and Place, BOM)
+    - Archive (Schematics, multiple file types)
